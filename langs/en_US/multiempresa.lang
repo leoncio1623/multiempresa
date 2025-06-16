@@ -1,0 +1,42 @@
+# Translation file
+
+#
+# Generic
+#
+
+# Module label 'ModuleMultiEmpresaName'
+ModuleMultiEmpresaName = MultiEmpresa
+# Module description 'ModuleMultiEmpresaDesc'
+ModuleMultiEmpresaDesc = MultiEmpresa description
+
+#
+# Admin page
+#
+MultiEmpresaSetup = MultiEmpresa setup
+Settings = Settings
+MultiEmpresaSetupPage = MultiEmpresa setup page
+NewSection=New section
+MULTIEMPRESA_MYPARAM1 = My param 1
+MULTIEMPRESA_MYPARAM1Tooltip = My param 1 tooltip
+MULTIEMPRESA_MYPARAM2=My param 2
+MULTIEMPRESA_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+MultiEmpresaAbout = About MultiEmpresa
+MultiEmpresaAboutPage = MultiEmpresa about page
+
+#
+# Sample page
+#
+MultiEmpresaArea = Home MultiEmpresa
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
